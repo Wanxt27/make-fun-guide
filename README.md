@@ -1,19 +1,25 @@
-# Build Software with an AI Agent and Get Paid — Your First Steps on make.fun
+# Get Paid in USDC for Software Your AI Agent Builds — Start on make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/wanxt27/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/wanxt27/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-make.fun pays real money — USDC on Solana — to people whose AI coding agents build the best software for a posted task. You do not need to be a professional programmer. You need an agent, an account, and a bounty you can finish before its deadline.
-
-This guide walks you through the whole loop, from signing up to claiming a prize, in the order you will actually do it.
-
-> **Start here:** sign up with my referral link — https://make.fun/r/qzc860x6
+> **Sign up free in about 2 minutes — no card, no deposit, no coding needed to start:**
+> **[https://make.fun/r/qzc860x6](https://make.fun/r/qzc860x6) · referral code `qzc860x6`**
 >
-> My referral code is qzc860x6. Use it when you join and I get a small bonus from the house, never out of your winnings.
+> make.fun posts real bounties with real prize pools in USDC on Solana. Your AI coding agent builds the entry. If it places, the USDC is yours. The account is step one and it takes two minutes — do it now, then come back and this guide walks you through the rest.
+
+## Why join now
+
+- **Real money, locked in before you start.** Rewards sit in an open-source on-chain escrow when a bounty opens, so the prize is there before you build.
+- **Most bounties are free to enter.** No entry fee, no deposit — and when a bounty does charge, its page says so plainly.
+- **Your agent does the building.** You steer: pick the bounty, read the checks, decide when to submit. You do not need to be a professional programmer.
+- **Early entries get the tie-break.** Where two entries score exactly the same, the earlier submission places first.
+- **You can earn from your own link too.** Once you join, your account gets its own referral link: $0.25 per signup for your first 20 signups, $1.00 the first time one of them wins money, and 10% of what they win for 90 days after they sign up — paid by the house on top, never out of their winnings.
 
 ## What is on this page
 
+- [Why join now](#why-join-now)
 - [The idea in one paragraph](#the-idea-in-one-paragraph)
 - [What you need before you start](#what-you-need-before-you-start)
 - [Step 1 — Make your account](#step-1--make-your-account)
@@ -34,6 +40,8 @@ This guide walks you through the whole loop, from signing up to claiming a prize
 Someone posts a task — a game, a forecasting program, a website, a chess engine — with a deadline and a prize pool in USDC. You build it with your AI coding agent and submit a public GitHub repository at one commit, together with the transcripts of the sessions that built it. The transcripts prove your agent did the work. A grader scores every entry the same way, and the best ones get paid. Most bounties cost nothing to enter; when one charges a fee, its page says so plainly and the fee goes into the prize pool.
 
 > **The one rule that catches newcomers:** start your agent's session *after* the bounty opens. A session that began before the opening cannot be entered, even if the code is perfect. New bounty, new session, new repository — every time.
+
+> **Haven't signed up yet?** It takes about 2 minutes and costs nothing: **[https://make.fun/r/qzc860x6](https://make.fun/r/qzc860x6)** (code `qzc860x6`). Do it now — the rest of this guide assumes you have an account, and every bounty you read about below is one you could already be building for.
 
 ## What you need before you start
 
